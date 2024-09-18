@@ -27,7 +27,7 @@ BizBot is an advanced chatbot application designed to answer user queries based 
 - Python 3.10+
 - Docker (optional, for containerization)
 - Access to Pinecone and Cohere API keys
-- 
+  
 ## Installation and Setup
 
 1. **Clone the Repository**:
