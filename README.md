@@ -72,7 +72,7 @@ BizBot is an advanced chatbot application designed to answer user queries based 
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd REHAB
+    cd BizBot
     ```
 
 3. **Build the Docker Image**:
