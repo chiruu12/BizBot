@@ -78,13 +78,13 @@ BizBot is an advanced chatbot application designed to answer user queries based 
 3. **Build the Docker Image**:
    Ensure that the Dockerfile is located in the root directory of your project. Build the Docker image using the following command:
     ```bash
-    docker build -t BizBot .
+    docker build -t bizbot .
     ```
     
 4. **Run the Docker Container**:
    After successfully building the image, run the container using:
     ```bash
-    docker run -d -p 8501:8501 BizBot
+    docker run -d -p 8501:8501 bizbot
     ```
    This command will:
    - Start the container in detached mode (`-d`).
